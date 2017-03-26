@@ -1,4 +1,5 @@
 Bienvenue dans l'application Java OAuth du développeur Intuit.
+
 Cet exemple d'application est destiné à fournir un exemple fonctionnel de gestion d'OAuth.
 
 Conditons Préalables:
