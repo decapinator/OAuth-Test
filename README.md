@@ -2,7 +2,7 @@ Bienvenue dans l'application Java OAuth du développeur Intuit.
 
 Cet exemple d'application est destiné à fournir un exemple fonctionnel de gestion d'OAuth.
 
-**Conditons Préalables:
+**Conditons Préalables:**
 
 • Dernière version de Java - Cet exemple utilise Java 1.7
 
@@ -15,7 +15,7 @@ si vous utilisez un numéro de port différent, veuillez mettre à jour le code 
 
 • Une application sur developer.intuit.com et le jeton d'application, la clé de consommateur et le secret de consommateur associés.
 
-**Instructions pour la première utilisation:
+**Instructions pour la première utilisation:**
 
 • Cloner le repo GitHub dans votre espace de travail
 
@@ -27,7 +27,7 @@ si vous utilisez un numéro de port différent, veuillez mettre à jour le code 
 
 • Déployer le fichier généré sur le serveur Web.
 
-**Exécutez l'application:
+**Exécutez l'application:**
 
 • Lancez l'application-http://localhost:8080/OauthSample
 
@@ -39,7 +39,7 @@ le jeton Oauth et le secret Oauth dans les log de votre serveur.
 • Vous allez être redirigé vers le findallcustomers.jsp qui effectue un appel au point d'extrémité du client QBO pour lire un 
 enregistrement client (par Id).
 
-**Structure du projet:
+**Structure du projet:**
 
 • RequestTokenServlet.java: Servlet pour déclencher le flux Oauth, appelle le noeud final du jeton de demande.
 La réponse est envoyée au CallBack Url de Oauth.
