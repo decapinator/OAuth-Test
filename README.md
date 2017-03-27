@@ -56,3 +56,16 @@ Lit les paramètres de HttpSession et appelle le point d'extrémité de jeton d'
 • connect.jsp: Fermez le popup Oauth et redirigez-le vers findallcustomers.jsp
 
 • findallcustomers.jsp: Code nécessaire pour appeler le point d'extrémité client QBO pour récupérer tous les clients
+
+**Aide:**
+
+Comment installer Tomcat :(https://journaldunadminlinux.fr/tutoriel-installer-et-configurer-tomcat-7/)
+
+comment ajouter tomcat au netbeans : (https://blog.erlem.fr/programmation/langage/java/39-java-ee/137-integrer-tomcat-7-a-netbeans-8)
+
+comment ouvrer un projet maven sous netbeans : tout simplement file>open project>OauthSimple
+
+comment creer un compte sur developer.intuit.com : (https://developer.intuit.com/docs/0100_quickbooks_online/0100_essentials/000100_create_an_intuit_developer_account)
+
+comment creer une application dans developer.intuit.com : (https://developer.intuit.com/docs/0100_quickbooks_online/0100_essentials/000200_create_an_app)
+
